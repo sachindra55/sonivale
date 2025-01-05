@@ -4,7 +4,7 @@ import { MessageCircle, Users, Heart, Share2 } from 'lucide-react';
 const discussions = [
   {
     id: 1,
-    author: 'Sarah Johnson',
+    author: 'Lucy Smith',
     avatar: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
     title: 'Tips for Night Shift Nursing',
     content: 'Looking for advice on maintaining a healthy work-life balance during night shifts...',
@@ -14,7 +14,7 @@ const discussions = [
   },
   {
     id: 2,
-    author: 'Michael Chen',
+    author: 'Jarod Black',
     avatar: 'https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
     title: 'Vision Impairment',
     content: 'Challenges in life due to vision impairement',

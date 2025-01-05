@@ -84,7 +84,8 @@ export function Community() {
               </div>
             </div>
           ))}
-        </div>
+        
+  </div>
       </div>
     </div>
   );
